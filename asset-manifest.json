@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/kimtahen/IM.git/static/css/main.b100e6da.chunk.css",
+    "main.js": "/kimtahen/IM.git/static/js/main.29bbd2bc.chunk.js",
+    "main.js.map": "/kimtahen/IM.git/static/js/main.29bbd2bc.chunk.js.map",
+    "runtime-main.js": "/kimtahen/IM.git/static/js/runtime-main.d67be50a.js",
+    "runtime-main.js.map": "/kimtahen/IM.git/static/js/runtime-main.d67be50a.js.map",
+    "static/js/2.bedbc454.chunk.js": "/kimtahen/IM.git/static/js/2.bedbc454.chunk.js",
+    "static/js/2.bedbc454.chunk.js.map": "/kimtahen/IM.git/static/js/2.bedbc454.chunk.js.map",
+    "index.html": "/kimtahen/IM.git/index.html",
+    "precache-manifest.845594b769577422c59b7a6bf02585de.js": "/kimtahen/IM.git/precache-manifest.845594b769577422c59b7a6bf02585de.js",
+    "service-worker.js": "/kimtahen/IM.git/service-worker.js",
+    "static/css/main.b100e6da.chunk.css.map": "/kimtahen/IM.git/static/css/main.b100e6da.chunk.css.map",
+    "static/media/logo.svg": "/kimtahen/IM.git/static/media/logo.25bf045c.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d67be50a.js",
+    "static/js/2.bedbc454.chunk.js",
+    "static/css/main.b100e6da.chunk.css",
+    "static/js/main.29bbd2bc.chunk.js"
+  ]
+}
