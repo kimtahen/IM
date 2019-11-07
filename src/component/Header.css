@@ -1,0 +1,19 @@
+.bg {
+	background: linear-gradient(rgba(255, 255, 255, 0.3), rgba(254, 239, 251)), url(./wallpaper.jpg);
+	background-size: auto 100%;
+	background-position: center;
+	padding-top: 56.25%;
+}
+
+@media (orientation:landscape ){
+	.bg {
+		position: absolute;
+		box-shadow: -15px 0px 20px 5px rgba(0,0,0, .5) inset;
+		position: fixed;
+		left: 0;
+		top: 0;
+		width: 30%;
+		height: 100%;
+		background-position: center;
+	}
+}
