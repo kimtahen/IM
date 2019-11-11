@@ -10,6 +10,7 @@
     border-bottom-style: solid;
     border-bottom-width: 1px;
     padding: 0.8rem 2.0rem;
+    background: rgba(255,255, 255, 0.9);
 }
 .title {
     display: inline-block;
