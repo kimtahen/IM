@@ -1,4 +1,5 @@
 .Sidebar {
+    box-sizing: border-box;
     z-index: 2;
     position : fixed;
     border-right: #eaecef;
