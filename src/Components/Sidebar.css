@@ -1,4 +1,5 @@
 .Sidebar {
+    z-index: 2;
     position : fixed;
     border-right: #eaecef;
     border-right-style: solid;
